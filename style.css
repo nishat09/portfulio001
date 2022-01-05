@@ -65,3 +65,9 @@ section{
 div{
     width: 50%;
 }
+
+.middle{
+    background-image: url(images/k.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
