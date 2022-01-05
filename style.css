@@ -14,7 +14,8 @@ h1{
 }
 
 .pic{
-    padding-left: 20%;
+    padding-left: 10%;
+    padding-right: 30%;
 }
 h1{
     padding-left: 8%;
@@ -28,7 +29,16 @@ a{
     margin-left: 8%;
     text-decoration: none;
     background-color: orangered;
-    padding: 10px 20px;
+    padding: 7px 20px;
     border-radius: 10px;
     background-image: linear-gradient(rgb(250, 109, 58),rgb(224, 159, 98));
+    background-repeat: no-repeat;
+}
+
+img{
+    height: 80%;
+}
+
+body{
+    margin: 0;
 }
