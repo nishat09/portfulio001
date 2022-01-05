@@ -71,3 +71,38 @@ div{
     background-repeat: no-repeat;
     background-position: right;
 }
+.last{
+    display: flex;
+    box-shadow: 50 px 50 px gray;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+#exp{
+    color: rgb(250, 109, 58);
+    width: 70px;
+    
+}
+.exp1{
+    width: 40%;
+    margin-left: 7%;
+    margin-right: 5%;
+    padding-right: 7%;
+    box-shadow: 10px 10px 40px violet;
+    
+}
+#left{
+    border-left: 7px solid black;
+    border-image-source: linear-gradient(blue,cyan);
+    border-image-slice: 1 ;
+}
+#right{
+    border-left: 7px solid black;
+    border-image-source: linear-gradient(blue,cyan);
+    border-image-slice: 1 ;
+
+}
+
+footer p{
+    text-align: center;
+}
